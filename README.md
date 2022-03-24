@@ -1,24 +1,7 @@
-# 24-3-2022
+# zadaca 2
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Deni Vidan
+- 0303088294
+- Web aplikacija
+- Tvoj zadatak je poslati zahtjev u obliku imena na sva tri endpointa i na temelju tog zahtjeva 
+prikazati sve podatke u jednoj tablici.
